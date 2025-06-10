@@ -4,7 +4,7 @@ go 1.22.2
 
 require (
 	github.com/ardanlabs/conf v1.5.0
-	github.com/cloudflare/circl v1.5.0
+	github.com/cloudflare/circl v1.6.1
 	github.com/cockroachdb/pebble v1.1.2
 	github.com/google/go-cmp v0.6.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0
@@ -48,6 +48,7 @@ require (
 	github.com/silenceper/pool v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
+	golang.org/x/crypto v0.26.0 // indirect
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8 // indirect
 	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
